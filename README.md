@@ -16,10 +16,11 @@ const mayerga = {
 }
 ```
 
-## you can find me 🌍: 
-  - [Blog]:
+## you can find 🌍: 
+  - my articles about web development and GIS in my [Website]:
+      - latest article: ...
   - [Twitter]: <a href="https://twitter.com/yerbes_4" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yerbes_4" height="28px" width="28px" />
   </a>
 
 [![mayerga's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayerga)](https://github.com/anuraghazra/github-readme-stats)
