@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Yerbes</h1>
 <h3 align="center">A passionate fullstack developer and GIS developer from Spain</h3>
 
-- 🔭 I’m currently working onfullstack development of web solut [Fullstack development of web solutions with JavaScript and web services](https://fp.uoc.fje.edu/wp-content/uploads/2018/12/Info-DAW2.pdf)
+- 🔭 I’m currently working on fullstack development of web solutions [Fullstack development of web solutions with JavaScript and web services](https://fp.uoc.fje.edu/wp-content/uploads/2018/12/Info-DAW2.pdf)
 
 - 🌱 I’m currently learning **Leaflet, Bootstrap, React and NodeJS**
 
