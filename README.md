@@ -4,6 +4,7 @@ Welcome to my page!
 I'm Manuel, Fullstack developer from 🇪🇸 Seville,
 currently living in Granada.
 
+## about me in code
 ```js
 const mayerga = {
   pronouns: "he" | "him",
@@ -15,9 +16,11 @@ const mayerga = {
 }
 ```
 
-You can find me 🌍: 
+## you can find me 🌍: 
   - [Blog]:
-  - [Twitter]:
+  - [Twitter]: <a href="https://twitter.com/yerbes_4" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  </a>
 
 [![mayerga's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayerga)](https://github.com/anuraghazra/github-readme-stats)
 
