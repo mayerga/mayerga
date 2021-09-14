@@ -1,9 +1,3 @@
-### Hi there 🤙 🧑‍💻 🗺️ 🌍
-
-Welcome to my page!
-I'm Manuel, Fullstack developer from 🇪🇸 Seville,
-currently living in Granada.
-
 <h1 align="center">Hi 👋, I'm Manuel Yerbes</h1>
 <h3 align="center">A passionate fullstack developer and GIS developer from Spain</h3>
 
