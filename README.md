@@ -1,3 +1,14 @@
+### Hi there 🤙
+
+```js
+const mayerga = {
+  pronouns: "he" | "him",
+   code: [JavaScript, HTML, CSS, Java, Python, Leaflet],
+   tools: [React],
+   challenge: "I'm working on my own website"
+}
+```
+
 - 👋 Hi, I’m @mayerga
 - 👀 I’m interested in all I can in Software Engineer and applying it to GIS
 - 🌱 I’m currently learning FrontEnd
