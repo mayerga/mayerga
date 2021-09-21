@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Leaflet, Bootstrap, React and NodeJS**
 
+- 🔭 I'm currently doing and advanced diploma in Web Applications Development.
+
 - 👯 I’m looking to collaborate on **GIS projects**
 
 - 🤝 I’m looking for help with **GIS projects**
