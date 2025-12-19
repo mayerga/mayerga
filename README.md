@@ -1,32 +1,59 @@
-<h1 align="center">Hi 👋, I'm Manuel Yerbes</h1>
-<h3 align="center">A passionate fullstack developer and GIS developer from Spain</h3>
+<h1 align="center">Hi there, I'm Manuel Yerbes!👋</h1>
+<h3 align="center">Software Engineer | Backend Focused | GIS Specialist</h3>
 
-- 🔭 I’m currently working on fullstack development of web solutions [Fullstack development of web solutions with JavaScript and web services](https://fp.uoc.fje.edu/wp-content/uploads/2018/12/Info-DAW2.pdf)
+- I am an experienced **Software Engineer with over 4 years of track record** building scalable backend systems and complex Geographic Information Systems (GIS) solutions.
 
-- 🌱 I’m currently learning **Leaflet, Bootstrap, React and NodeJS**
+- Currently, I balance my full-time role as a Software Engineer at **Cotesa** with finishing my **Computer Engineering Degree** (expected 2026) and preparing for an upcoming Master's in AI, DevOps & Cloud. I am passionate about System Design, Spatial Algorithms, and writing clean, performant code.
 
-- 🔭 I'm currently doing and advanced diploma in Web Applications Development.
+---
 
-- 👯 I’m looking to collaborate on **GIS projects**
+- 🧐 What I'm currently up to:
+* 🔭 **Working on:** High-performance data visualization modules and optimizing GIS backend services using Python and JavaScript at Cotesa.
+* 🌱 **Learning:** Deepening my knowledge in **System Design** for large-scale distributed systems and preparing for my Master's in **AI, Cloud & DevOps**.
+* 🗺️ **Ask me about:** Anything related to **GIS**, PostGIS, Spatial SQL, routing algorithms (pgRouting), and backend architecture in Java or Python.
 
-- 🤝 I’m looking for help with **GIS projects**
+---
 
-- 💬 Ask me about **GIS**
+### 🚀 Featured Side Projects
 
-- 📫 How to reach me **manyergar@gmail.com**
+These projects demonstrate my ability to build robust, production-ready systems using modern standards.
 
-<h3 align="left">Connect with me:</h3>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🗺️ Logistics Routing Engine** | A low-latency REST API that calculates optimal routes using **Dijkstra's algorithm** on geospatial data. Features rigorous data validation with Pydantic and robust error handling. | `Python` `FastAPI` `PostGIS` `pgRouting` `Docker` |
+| **📍 Merchant Location Service** | A high-performance microservice for spatial queries (finding nearby merchants). Leverages **JOOQ** for type-safe SQL generation, avoiding ORM overhead for maximum speed. | `Java` `Spring Boot` `JOOQ` `PostGIS` `Docker` |
+
+---
+
+### 🛠️ Languages and Tools
+I focus on choosing the right tool for the job, specializing in robust backend ecosystems and heavy-duty data processing.
+
+#### Backend & Core
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring Boot](https://img.shields.io/badge/springtext=Spring%20Boot&color=6DB33F&style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+#### Database & GIS (My Specialty)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-005571?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-SQL?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### Frontend
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+---
+
+### 📈 GitHub Stats
+
 <p align="left">
-<a href="https://twitter.com/yerbes_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yerbes_4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manuelyerbes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuelyerbes/" height="30" width="40" /></a>
+<a href="https://github.com/manyerga">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manyerga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyerga&layout=compact&theme=tokyonight"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 📫 Connect with me
 
-## Last articles 🌍: 
-  - ........
-
-
-[![mayerga's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayerga)](https://github.com/anuraghazra/github-readme-stats)
+* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelyerbes/) * [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manyergar@gmail.com)
