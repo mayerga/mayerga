@@ -7,7 +7,7 @@
 
 ---
 
-- 🧐 What I'm currently up to:
+### 🧐 What I'm currently up to:
 * 🔭 **Working on:** High-performance data visualization modules and optimizing GIS backend services using Python and JavaScript at Cotesa.
 * 🌱 **Learning:** Deepening my knowledge in **System Design** for large-scale distributed systems and preparing for my Master's in **AI, Cloud & DevOps**.
 * 🗺️ **Ask me about:** Anything related to **GIS**, PostGIS, Spatial SQL, routing algorithms (pgRouting), and backend architecture in Java or Python.
