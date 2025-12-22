@@ -47,8 +47,8 @@ I focus on choosing the right tool for the job, specializing in robust backend e
 
 <p align="left">
 <a href="https://github.com/manyerga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manyerga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyerga&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayerga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayerga&layout=compact&theme=tokyonight"/>
 </a>
 </p>
 
